@@ -1,0 +1,24 @@
+{
+  "name": "budgetingapp",
+  "version": "1.0.0",
+  "description": "A web application that you can use to plan your weekly or monthly budgets",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akanshay/Budgeting-App.git"
+  },
+  "keywords": [
+    "HTML",
+    "CSS",
+    "JavaScript"
+  ],
+  "author": "Adegoke Stephen",
+  "license": "GNU",
+  "bugs": {
+    "url": "https://github.com/Akanshay/Budgeting-App/issues"
+  },
+  "homepage": "https://github.com/Akanshay/Budgeting-App#readme"
+}
